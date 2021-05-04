@@ -1,7 +1,6 @@
 import random
 your_wins = 0
 computer_wins = 0
-max_rounds = 9
 moves_arr = ["Rock", "Paper", "Scissors"]
 
 while (your_wins <= 3) or (computer_wins <= 3):
